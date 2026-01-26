@@ -32,7 +32,7 @@ Experienced in building end-to-end ML pipelines covering data processing, modeli
 
 ---
 
-## 🔷 Recommender Systems
+## 🔷 Search & Recommender Systems
 **Candidate retrieval, ranking models, and personalization**
 
 - **[Two-Stage Recommender System](https://github.com/malinphy/recommender_sys/tree/main/YouTube/anime_dataset/dataprocess)**  
@@ -50,7 +50,9 @@ Experienced in building end-to-end ML pipelines covering data processing, modeli
   Neural network–based matrix factorization approach.  
   - Learns non-linear user–item interactions  
   - Baseline comparison against traditional MF methods
-
+- **[E-commerce Search System](https://github.com/malinphy/e_commerce_search)**
+  - Engineered a three-stage e-commerce search systemusing fine-tuned deep learning models, (retrieval, pre-ranking, re-ranking)
+  - Two-tower and cross-encoder architectures optimized for product relevance.
 ---
 
 ## 🔷 Experimentation & Statistics
