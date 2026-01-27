@@ -51,6 +51,7 @@ Experienced in building end-to-end ML pipelines covering data processing, modeli
   - Learns non-linear user–item interactions  
   - Baseline comparison against traditional MF methods
 - **[E-commerce Search System](https://github.com/malinphy/e_commerce_search)**
+  Search Pipeline
   - Engineered a three-stage e-commerce search systemusing fine-tuned deep learning models, (retrieval, pre-ranking, re-ranking)
   - Two-tower and cross-encoder architectures optimized for product relevance.
 ---
