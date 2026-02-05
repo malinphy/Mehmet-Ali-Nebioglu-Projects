@@ -54,6 +54,8 @@ Experienced in building end-to-end ML pipelines covering data processing, modeli
   Search Pipeline
   - Engineered a three-stage e-commerce search systemusing fine-tuned deep learning models, (retrieval, pre-ranking, re-ranking)
   - Two-tower and cross-encoder architectures optimized for product relevance.
+- **[Next Trip Recommendation System](https://github.com/malinphy/NextTripRecSys)**
+  - Sequential Recommendation System
 ---
 
 ## 🔷 Experimentation & Statistics
