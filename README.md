@@ -56,6 +56,7 @@ Experienced in building end-to-end ML pipelines covering data processing, modeli
   - Two-tower and cross-encoder architectures optimized for product relevance.
 - **[Next Trip Recommendation System](https://github.com/malinphy/NextTripRecSys)**
   - Sequential Recommendation System
+  - Next hotel prediction based on user history
  
 - **[Personalized hotel ranking](https://github.com/malinphy/personalized-hotel-ranking)**
   - Click-Through (CTR) and Conversion Rates (CVR) prediction
